@@ -32,7 +32,7 @@ This is a basic Hospital Management System project built using HTML, CSS, JavaSc
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/hospital-management-system.git
+git clone https://github.com/himalipatil02/hospital-management-system.git
 
 # 2. Navigate into the project directory
 cd hospital-management-system
