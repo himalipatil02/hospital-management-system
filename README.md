@@ -19,8 +19,11 @@ This is a basic Hospital Management System project built using HTML, CSS, JavaSc
 
 | Layer       | Tech Used                  |
 |-------------|----------------------------|
-| Frontend    | HTML, CSS, JavaScript, Bootstrap |
-| Database    | MySQL
+| Frontend    | HTML, CSS, JavaScript, Bootstrap, JSTL |
+| Backend     | JSP, Servlets              |
+| Database    | MySQL                      |
+| Server      | Apache Tomcat 9+           |
+| Build Tool  | Maven (or manual WAR packaging) |
 
 ---
 
