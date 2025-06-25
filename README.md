@@ -1,6 +1,6 @@
 # hospital-management-system
 
-This is a basic Hospital Management System project built using [mention your language/platform].
+This is a basic Hospital Management System project built using HTML, CSS, JavaScript, Bootstrap.
 
 ## ✅ Features
 
@@ -20,9 +20,7 @@ This is a basic Hospital Management System project built using [mention your lan
 | Layer       | Tech Used                  |
 |-------------|----------------------------|
 | Frontend    | HTML, CSS, JavaScript, Bootstrap |
-| Backend     | PHP / Python / Node.js / Java *(choose your backend)* |
-| Database    | MySQL / MongoDB *(mention what you used)* |
-| Other Tools | XAMPP / WAMP / Docker / Postman |
+| Database    | MySQL
 
 ---
 
